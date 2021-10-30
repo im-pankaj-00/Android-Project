@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bottom Navigation App</string>
+    <string name="page_title">%s page is selected</string>
+</resources>

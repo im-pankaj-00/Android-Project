@@ -1,0 +1,2 @@
+rootProject.name = "Snap Chat Login Page"
+include ':app'
